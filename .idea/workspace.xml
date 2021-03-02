@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f6d50be-f329-48c6-8671-546d50dc2575" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/TwoSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/LengthOfLongestSubstring.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,14 +29,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lcd/algorithm/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="19" selection-end-column="52" />
+            <state relative-caret-position="-383">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LengthOfLongestSubstring.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lcd/algorithm/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/NagativePositiveCountAvg.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/CubeRoot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lcd/algorithm/LengthOfLongestSubstring.java" />
       </list>
     </option>
   </component>
@@ -154,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -179,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.LengthOfLongestSubstring">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -206,14 +217,14 @@
       <module name="algorithm" />
       <envs />
     </configuration>
-    <configuration name="LeastCommonMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.lcd.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.lcd.algorithm.LeastCommonMultiple" />
+      <option name="MAIN_CLASS_NAME" value="com.lcd.algorithm.LengthOfLongestSubstring" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -357,19 +368,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LeastCommonMultiple" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StringReverse" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NagativePositiveCountAvg" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CubeRoot" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TwoSum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.StringReverse" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NagativePositiveCountAvg" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CubeRoot" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TwoSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LengthOfLongestSubstring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TwoSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CubeRoot" />
-        <item index="2" class="java.lang.String" itemvalue="Application.NagativePositiveCountAvg" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StringReverse" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LeastCommonMultiple" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LengthOfLongestSubstring" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CubeRoot" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NagativePositiveCountAvg" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StringReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +402,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614129373042</updated>
-      <workItem from="1614129376402" duration="8984000" />
+      <workItem from="1614129376402" duration="12676000" />
     </task>
     <task id="LOCAL-00001" summary="统计其中的负数个数并求所有非负数的平均值，结果保留一位小数">
       <created>1614160212656</created>
@@ -404,7 +415,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8984000" />
+    <option name="totallyTimeSpent" value="12676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -462,16 +473,8 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lcd/algorithm/TwoSum.java</url>
-          <line>15</line>
-          <properties class="com.lcd.algorithm.TwoSum" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -539,11 +542,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lcd/algorithm/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="19" selection-end-column="52" />
+        <state relative-caret-position="-383">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcd/algorithm/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
